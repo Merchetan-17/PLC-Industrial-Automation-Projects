@@ -15,15 +15,25 @@ This repository contains industrial PLC programming and automation projects deve
 #⚙️ Skills Covered
 
 - Ladder Logic Programming
+
 - Latching & Holding Circuits
+
 - Timers (TON, TOF, RTO)
+
 - Counters (CTU, CTD)
+
 - Motor Start/Stop Control
+
 - Forward & Reverse Motor Control
+
 - Interlocking Systems
+
 - Conveyor Automation
+
 - Traffic Light Control
+
 - Basic Industrial Process Logic
+
 - PLC Simulation & Debugging
 
 ---
