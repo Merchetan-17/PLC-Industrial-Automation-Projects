@@ -31,11 +31,9 @@ This repository contains industrial PLC programming and automation projects deve
 # 📂 Project Structure
 
 PLC-Industrial-Automation-Projects/
-│
+
 ├──01_Basic_Logic_Gates/
-
 ├── 02_Latching_Holding_Circuits/
-
 ├── 03_Timers/
 ├── 04_Counters/
 ├── 05_Motor_Control_Projects/
