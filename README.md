@@ -74,7 +74,7 @@ This repository focuses on:
 
 # 📌 Author
 
-Chetan Manubhai  
+Chetan Mer  
 Robotics & Automation Engineering Student  
 Focused on Industrial Automation, PLC Programming, and Embedded Systems.
 
