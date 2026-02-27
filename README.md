@@ -70,7 +70,7 @@ This repository focuses on:
 - Implementing real-world automation logic
 - Simulation-based testing and debugging
 - Developing industry-ready documentation
-<img width="1576" height="783" alt="image" src="https://github.com/user-attachments/assets/fd1f5979-38c0-4b23-abe0-5f28d85d634c" />
+
 
 
 # 📌 Author
