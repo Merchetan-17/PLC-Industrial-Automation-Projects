@@ -62,6 +62,8 @@ Output turns ON only when inputs are different.
 If both inputs are same (both ON or both OFF), output is OFF.
 
 🔷XNOR Gate
+
+
 Boolean Expression: Y = AB + A'B'
 Description:
 The XNOR gate produces output HIGH when both inputs are equal. 
