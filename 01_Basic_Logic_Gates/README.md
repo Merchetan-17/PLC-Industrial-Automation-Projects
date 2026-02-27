@@ -11,6 +11,9 @@ PLC Emulator 500
 📘 Logic Gates 
 
 
+
+
+
 1️⃣ NOT Gate
 
 Boolean Expression: Y = A'
