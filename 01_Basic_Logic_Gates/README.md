@@ -3,13 +3,18 @@ Objective: The objective of this project is to understand and implement basic di
 📘 Software Used:
 
 RSLogix 500
+
 RSLinx Classic
+
 PLC Emulator 500
 
 📘 Logic Gates 
 
+
 1️⃣ NOT Gate
+
 Boolean Expression: Y = A'
+
 Description:
 The NOT gate inverts the input signal.
 If input is ON (1), output becomes OFF (0).
