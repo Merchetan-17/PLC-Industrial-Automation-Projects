@@ -60,6 +60,7 @@ Boolean Expression: Y = A'B + AB'
 Description:
 Output turns ON only when inputs are different.
 If both inputs are same (both ON or both OFF), output is OFF.
+ ![XNOR & XOR GATE](https://github.com/Merchetan-17/PLC-Industrial-Automation-Projects/blob/main/01_Basic_Logic_Gates/XNOR%20&%20XOR%20GATE.png?raw=true)
 
 🔷XNOR Gate
 Boolean Expression: Y = AB + A'B'
