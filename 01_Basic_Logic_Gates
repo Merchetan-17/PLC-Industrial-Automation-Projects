@@ -1,6 +1,0 @@
-NOT Gate
-
-Boolean Expression:   Y = A'
-
-Description:
-Output turns ON when input is OFF.
