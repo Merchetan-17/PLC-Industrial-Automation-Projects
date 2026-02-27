@@ -39,4 +39,4 @@ Description:
 Output turns ON only when both inputs are OFF.
 If any input becomes ON, output turns OFF.
 
-![Basic Logic Gates](Basic_Logic_Gates_Ladder.png)
+![Basic Logic Gates](https://github.com/Merchetan-17/PLC-Industrial-Automation-Projects/blob/main/01_Basic_Logic_Gates/Basic%20Logic%20gates.png?raw=true)
