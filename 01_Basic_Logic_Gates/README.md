@@ -65,6 +65,7 @@ If both inputs are same (both ON or both OFF), output is OFF.
 
 
 Boolean Expression: Y = AB + A'B'
+
 Description:
 The XNOR gate produces output HIGH when both inputs are equal. 
 It is also known as the Equivalence Gate.
