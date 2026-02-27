@@ -67,3 +67,6 @@ Boolean Expression: Y = AB + A'B'
 Description:
 The XNOR gate produces output HIGH when both inputs are equal. 
 It is also known as the Equivalence Gate.
+
+All Gates Truth Table :
+ ![gates truth table](https://github.com/Merchetan-17/PLC-Industrial-Automation-Projects/blob/main/01_Basic_Logic_Gates/gates%20truth%20table.png?raw=true)
