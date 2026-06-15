@@ -38,15 +38,15 @@ This project demonstrates the operation of TON, TOF, and RTO timers using ladder
 
 ### TON Timer
 
-![Latching Holding Circuit]()
+![Latching Holding Circuit](https://github.com/Merchetan-17/PLC-Industrial-Automation-Projects/blob/main/03_Timer/TON%20TIMER..png?raw=true)
 
 ### TOF Timer
 
-![Latching Holding Circuit]()
+![Latching Holding Circuit](https://github.com/Merchetan-17/PLC-Industrial-Automation-Projects/blob/main/03_Timer/TOFF%20Timer.png?raw=true)
 
 ### RTO Timer
 
-![Latching Holding Circuit]()
+![Latching Holding Circuit](https://github.com/Merchetan-17/PLC-Industrial-Automation-Projects/blob/main/03_Timer/T-RTO%20Timer.png?raw=true)
 
 ## Industrial Applications
 
