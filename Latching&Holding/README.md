@@ -33,8 +33,7 @@ When the Stop push button is pressed, the circuit opens and the motor turns OFF.
 
 ## Ladder Logic
 
-![Latching Holding Circuit](latching_holding_circuit.png)
-
+![Latching Holding Circuit](https://github.com/Merchetan-17/PLC-Industrial-Automation-Projects/blob/main/Latching&Holding/Latching&holding.png?raw=true)
 ## Industrial Applications
 
 - Motor Starter Circuits
